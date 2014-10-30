@@ -1,0 +1,59 @@
+{
+  "ok": true,
+  "channel": {
+      "id": "C0EWQEQW56",
+      "name": "development",
+      "is_channel": true,
+      "created": 1394043818,
+      "creator": "U02FDS1",
+      "is_archived": false,
+      "is_general": false,
+      "is_member": true,
+      "last_read": "1414679691.000028",
+      "latest": {
+          "username": "github",
+          "bot_id": "GFD5W0VC",
+          "attachments": [
+              {
+                  "pretext": "[test:the-rise-of-patient-medication] 1 new commit by john Gon\u00e7alves:",
+                  "fallback": "[test:the-rise-of-patient-medication] <https:\/\/github.com\/test\/test\/commit\/4|1 new commit> by john Gon\u00e7alves",
+                  "text": "<https:\/\/github.com\/test\/test\/commit\/4e7ce5>: list item - john Gon\u00e7alves",
+                  "color": "4183c4",
+                  "mrkdwn_in": [
+                      "text"
+                  ]
+              }
+          ],
+          "type": "message",
+          "subtype": "bot_message",
+          "ts": "1414685270.000047"
+      },
+      "unread_count": 19,
+      "members": [
+          "U025V42FM1",
+          "U025WF0J5N",
+          "U02O5X407D",
+          "U025YX51UF",
+          "U02P5X54T9",
+          "U0C25X57AF",
+          "U025X6A199",
+          "U025XOLRAC",
+          "U025ZWTH9A",
+          "U025XUD8R2",
+          "U025YGDJT3",
+          "U025YGFC80",
+          "U025Z0YV03",
+          "U0260HKAG4"
+      ],
+      "topic": {
+          "value": "Development suff only",
+          "creator": "LP025GHJM1",
+          "last_set": "1394108349"
+      },
+      "purpose": {
+          "value": "",
+          "creator": "",
+          "last_set": "0"
+      }
+  }
+}

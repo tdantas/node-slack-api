@@ -1,0 +1,31 @@
+{
+    "ok": true,
+    "channels": [
+        {
+            "id": "C02GN6QJ",
+            "name": "javascript",
+            "is_channel": true,
+            "created": 1397152732,
+            "creator": "U0V123231",
+            "is_archived": false,
+            "is_general": false,
+            "is_member": false,
+            "members": [
+                "U312123123",
+                "U425234423",
+                "U345453345"
+            ],
+            "topic": {
+                "value": "",
+                "creator": "",
+                "last_set": "0"
+            },
+            "purpose": {
+                "value": "",
+                "creator": "",
+                "last_set": "0"
+            },
+            "num_members": 2
+        }
+    ]
+}

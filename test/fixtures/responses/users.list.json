@@ -1,0 +1,27 @@
+{
+  "ok": true,
+  "members": [{
+    "id": "U8912378923",
+    "name": "john",
+    "deleted": false,
+    "status": null,
+    "color": "9f69e7",
+    "real_name": "Doe",
+    "skype": "me",
+    "phone": "7891278912",
+    "tz": "Europe\/London",
+    "tz_label": "Greenwich Mean Time",
+    "tz_offset": 0,
+    "profile": {
+      "first_name": "john",
+      "last_name": "doe"
+    },
+    "is_admin": true,
+    "is_owner": true,
+    "is_primary_owner": true,
+    "is_restricted": false,
+    "is_ultra_restricted": false,
+    "is_bot": false,
+    "has_files": true
+    }]
+}
