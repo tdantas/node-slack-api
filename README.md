@@ -33,7 +33,7 @@ as soon as I implement more [slack methods](https://api.slack.com/methods), I wi
   SlackClient.channelsInfo({ channel: 'U83912' }, function(err, channels, rawResponse){});
   
   // Channels History
-  SlackClient.channelsInfo({ channel: 'U83912' }, function(err, messages, rawResponse){});
+  SlackClient.channelsHistory({ channel: 'U83912' }, function(err, messages, rawResponse){});
 
   
 ```
